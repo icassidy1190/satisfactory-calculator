@@ -527,10 +527,10 @@
             "category": "smelting2",
             "time": 4,
             "ingredients": [
-                ["iron-ore", 1],
-                ["copper-ore", 1]
+                ["iron-ore", 2],
+                ["copper-ore", 2]
             ],
-            "product": ["iron-ingot", 3]
+            "product": ["iron-ingot", 5]
         },
         {
             "name": "Copper Ingot",
@@ -551,7 +551,7 @@
                 ["iron-ore", 3],
                 ["coal", 3]
             ],
-            "product": ["steel-ingot", 2]
+            "product": ["steel-ingot", 3]
         },
         {
             "name": "Alternate: Steel Ingot",
@@ -581,9 +581,9 @@
             "category": "crafting1",
             "time": 4,
             "ingredients": [
-                ["iron-ingot", 2]
+                ["iron-ingot", 3]
             ],
-            "product": ["iron-plate", 1]
+            "product": ["iron-plate", 2]
         },
         {
             "name": "Iron Rod",
@@ -603,7 +603,7 @@
             "ingredients": [
                 ["copper-ingot", 1]
             ],
-            "product": ["wire", 3]
+            "product": ["wire", 2]
         },
         {
             "name": "Alternate: Iron Wire",
@@ -623,7 +623,7 @@
             "ingredients": [
                 ["caterium-ingot", 1]
             ],
-            "product": ["wire", 9]
+            "product": ["wire", 5]
         },
         {
             "name": "Cable",
@@ -674,7 +674,7 @@
             "ingredients": [
                 ["iron-rod", 1]
             ],
-            "product": ["screw", 6]
+            "product": ["screw", 4]
         },
         {
             "name": "Alternate: Screw",
@@ -682,9 +682,9 @@
             "category": "crafting1",
             "time": 8,
             "ingredients": [
-                ["iron-ingot", 2]
+                ["iron-ingot", 5]
             ],
-            "product": ["screw", 12]
+            "product": ["screw", 20]
         },
         {
             "name": "Alternate: Steel Screw",
@@ -752,7 +752,7 @@
             "category": "crafting1",
             "time": 6,
             "ingredients": [
-                ["steel-ingot", 3]
+                ["steel-ingot", 4]
             ],
             "product": ["steel-beam", 1]
         },
@@ -762,9 +762,9 @@
             "category": "crafting1",
             "time": 4,
             "ingredients": [
-                ["steel-ingot", 1]
+                ["steel-ingot", 3]
             ],
-            "product": ["steel-pipe", 1]
+            "product": ["steel-pipe", 2]
         },
         {
             "name": "Reinforced Iron Plate",
@@ -772,8 +772,8 @@
             "category": "crafting2",
             "time": 12,
             "ingredients": [
-                ["iron-plate", 4],
-                ["screw", 24]
+                ["iron-plate", 6],
+                ["screw", 12]
             ],
             "product": ["reinforced-iron-plate", 1]
         },
@@ -783,8 +783,8 @@
             "category": "crafting2",
             "time": 24,
             "ingredients": [
-                ["iron-plate", 10],
-                ["screw", 24]
+                ["iron-plate", 18],
+                ["screw", 50]
             ],
             "product": ["reinforced-iron-plate", 3]
         },
@@ -805,8 +805,8 @@
             "category": "crafting2",
             "time": 10,
             "ingredients": [
-                ["iron-rod", 3],
-                ["screw", 22]
+                ["iron-rod", 5],
+                ["screw", 25]
             ],
             "product": ["rotor", 1]
         },
@@ -828,9 +828,9 @@
             "time": 15,
             "ingredients": [
                 ["reinforced-iron-plate", 3],
-                ["iron-rod", 6]
+                ["iron-rod", 12]
             ],
-            "product": ["modular-frame", 1]
+            "product": ["modular-frame", 2]
         },
         {
             "name": "Alternate: Modular Frame",
@@ -838,8 +838,8 @@
             "category": "crafting2",
             "time": 30,
             "ingredients": [
-                ["reinforced-iron-plate", 6],
-                ["steel-pipe", 6]
+                ["reinforced-iron-plate", 2],
+                ["steel-pipe", 10]
             ],
             "product": ["modular-frame", 3]
         },
@@ -882,10 +882,10 @@
             "category": "crafting2",
             "time": 20,
             "ingredients": [
-                ["steel-pipe", 6],
-                ["quickwire", 20]
+                ["steel-pipe", 3],
+                ["quickwire", 8]
             ],
-            "product": ["stator", 3]
+            "product": ["stator", 1]
         },
         {
             "name": "Motor",
@@ -993,7 +993,7 @@
                 ["modular-frame", 5],
                 ["steel-pipe", 15],
                 ["encased-industrial-beam", 5],
-                ["screw", 90]
+                ["screw", 100]
             ],
             "product": ["heavy-modular-frame", 1]
         },
